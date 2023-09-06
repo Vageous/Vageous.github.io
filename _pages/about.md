@@ -20,7 +20,7 @@ redirect_from:
 I'm a master student who is majoring in applied cryptography and federated learning at the University of Electronic Science and Technology of China. Specifically, my research interest includes the following aspects. Additionally, I have done some work that combines homomorphic encryption with federated learning and you can see them in <a href='https://github.com/Vageous'>my github</a>. Meanwhile, I have published some papers in some conferences and journals including IEEE ICC, IEEE Globecom, and IEEE IoTj. Now, I have begun to learn more about functional encryption, zero-knowledge proof, and blockchain. In the future, I will do some work on the above aspects.
 
 ---
-### 🔭Research Interests
+# 🔭Research Interests
 - Federated Learning
 - Cryptography
   - Homomorphic Encryption
@@ -28,27 +28,21 @@ I'm a master student who is majoring in applied cryptography and federated learn
   - Broadcast Encryption
   - Zero-Knowledge Proof
 - Decentralized system
+
 ---
 
 # 📝 Publications 
+## Papers
 1. Communication-Efficient Privacy-Preserving and Verifiable Federated Learning (IEEE ICC 2023, CCF-C)
 2. DTPP-DFL: A Dropout-Tolerated Privacy-Preserving Decentralized Federated Learning Framework (IEEE Globecom 2023, CCF-C)
 3. A Dropout-Tolerated Privacy-Preserving Method for Decentralized Crowdsourced Federated Learning (IEEE IoTj 2023, SCI-1)
 
-$\color{Red}{The&ensp; above&ensp; papers&ensp; have&ensp; just&ensp; been &ensp;accepted &ensp;and&ensp; I&ensp; will&ensp; adjust&ensp; them&ensp; when&ensp; they&ensp; are&ensp; in &ensp;publication.}$
-
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+$\color{Red}{Ps:&ensp; The&ensp; above&ensp; papers&ensp; have&ensp; just&ensp; been &ensp;accepted &ensp;and&ensp; I&ensp; will&ensp; adjust&ensp; them&ensp; when&ensp; they&ensp; are&ensp; in &ensp;publication.}$
+## Patents
+1. 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Information
+- <a href='https://github.com/Vageous'>Curriculum Vitate</a>
