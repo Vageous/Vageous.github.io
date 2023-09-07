@@ -46,4 +46,4 @@ $\color{Red}{Ps:&ensp; The&ensp; above&ensp; papers&ensp; have&ensp; just&ensp; 
 - *2017.09 - 2021.07*, I was an undergraduate student at the Xi’an University of Posts & Telecommunications and my major was Information Security. I worked in the laboratory of Prof. Meixia Miao with her master's students on a project about ciphertext deduplication for cloud storage.
 - *2021.09 - Present*, I'm a master student supervised by Pro. Xiaofen Wang at the University of Electronic Science and Technology of China. I worked in the Cyber Security Team led by Pro. Xiaosong Zhang.
 # 💬 Information
-- <a href='https://github.com/Vageous'>Curriculum Vitate</a>
+- <a href='https://github.com/Vageous/Vageous.github.io/blob/main/docs/CV-chen-tao.pdf'>Curriculum Vitate</a>
