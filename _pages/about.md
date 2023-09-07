@@ -39,10 +39,11 @@ I'm a master student who is majoring in applied cryptography and federated learn
 
 $\color{Red}{Ps:&ensp; The&ensp; above&ensp; papers&ensp; have&ensp; just&ensp; been &ensp;accepted &ensp;and&ensp; I&ensp; will&ensp; adjust&ensp; them&ensp; when&ensp; they&ensp; are&ensp; in &ensp;publication.}$
 ## Patents
-1. 
+1. A Verifiable Privacy-Preserving Federated Learning Method and System.
+2. A Certificateless Anonymous Cross-Domain Authentication Method for IoT devices based on Blockchain.
+3. An Efficient Fully Anonymous Self-Counting Voting Method Based on Blockchain.
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2017.09 - 2021.07*, I was an undergraduate student at the Xi’an University of Posts & Telecommunications and my major was Information Security. I worked in the laboratory of Prof. Meixia Miao with her master's students on a project about ciphertext deduplication for cloud storage.
+- *2021.09 - Present*, I'm a master student supervised by Pro. Xiaofen Wang at the University of Electronic Science and Technology of China. I worked in the Cyber Security Team led by Pro. Xiaosong Zhang.
 # 💬 Information
 - <a href='https://github.com/Vageous'>Curriculum Vitate</a>
