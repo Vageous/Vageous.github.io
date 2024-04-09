@@ -50,4 +50,4 @@ I'm a master student who is majoring in applied cryptography and federated learn
 
 ---
 # 💬 Information
-- <a href='https://github.com/Vageous/Vageous.github.io/blob/main/docs/CV-chen-tao.pdf'>Curriculum Vitate</a>
+*To be Continued...*
